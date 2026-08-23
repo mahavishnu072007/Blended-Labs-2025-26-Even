@@ -1,4 +1,4 @@
-# Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+Build Your VPC and Launch a Web Server (AWS)
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
